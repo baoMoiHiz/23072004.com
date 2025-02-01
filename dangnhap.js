@@ -25,7 +25,7 @@ function xuLyDangNhap() {
         localStorage.setItem("daDangNhap", "true");
 
         // Chuyển hướng đến trang chính
-        window.location.href = "index.html";
+        window.location.href = "https://baomoihiz.github.io/admin.com/";
     } else {
         alert("❌ Tên đăng nhập hoặc mật khẩu không đúng!");
     }
